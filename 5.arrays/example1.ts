@@ -8,3 +8,8 @@ arrayOfNumbers=[3,4,5];
 
 //This wont Work
 //arrayOfNumbers=['one','two']//In Javascript we can use like that
+
+//This wont Work
+// var arryCheck=[1,2,3];
+// arryCheck=['one','two'];
+// console.log(arryCheck);

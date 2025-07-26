@@ -15,3 +15,9 @@ counter1.increamentCounter();
 counter1.increamentCounter();
 counter1.increamentCounter();
 console.log(counter1.getCounterVal());
+
+
+
+
+
+

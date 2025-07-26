@@ -44,7 +44,9 @@ interface User{
 
    console.log(greetUser(user2));
 
-   userLogDetails(user1);
+  // userLogDetails(user1);
+
+   console.log(userLogDetails(user2));
 
 
    //using Interface we can use like object
